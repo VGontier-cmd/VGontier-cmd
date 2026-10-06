@@ -1,29 +1,40 @@
-# Hi, I'm Vivien
+<h1 align="center">Hey, I'm Vivien 👋</h1>
 
-Software engineer in Rouen, France. I build web, mobile and desktop applications, with a focus on useful features, thoughtful interfaces and reliable code.
+<p align="center">
+  Software engineer at <b>Lemonway</b> · Rouen, France<br>
+  I build apps, learn Japanese and take photos along the way.
+</p>
 
-At **Lemonway**, I work on the merchant back office and **PaygreenJS**, our public payment library. Outside work, I build my own products and explore tools that make development easier.
+<p align="center">
+  <a href="https://viviengontier.com/en"><img src="https://img.shields.io/badge/Portfolio-18181B?style=flat&amp;logo=safari&amp;logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/vivien-gontier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat" alt="LinkedIn"></a>
+  <a href="https://viviengontier.com/en/blog"><img src="https://img.shields.io/badge/Blog-18181B?style=flat&amp;logo=rss&amp;logoColor=white" alt="Blog"></a>
+</p>
 
-[Portfolio](https://viviengontier.com/en) · [LinkedIn](https://www.linkedin.com/in/vivien-gontier) · [Blog](https://viviengontier.com/en/blog)
+---
 
-## Selected projects
+**A few things I've built**
 
-| Project | What I built | Stack |
-| --- | --- | --- |
-| **[Sumi](https://apps.apple.com/app/id6770529287)** | An iOS app for learning Japanese kana and kanji. Adaptive quizzes, spaced repetition and handwriting feedback that runs on the device. Designed, built and shipped solo. | React Native, Expo, TypeScript, Skia |
-| **[Arche](https://github.com/VGontier-cmd/arche)** | A self-hosted development agent orchestrator: Jira ticket → plan → code → review → GitLab merge request, with Docker sandboxes and human approval gates. | TypeScript, Node.js, Fastify, SQLite, Docker |
-| **[My Wish Vault](https://www.producthunt.com/posts/my-wish-vault)** | A wishlist app with public sharing and anonymous gift reservations, so friends can avoid buying the same gift without creating an account. | Next.js, React, Prisma, NextAuth |
-| **[Summoner's Configs](https://github.com/VGontier-cmd/summoner-configs)** | A Windows app to save and switch League of Legends configurations across accounts. Co-created with [TCarel-dev](https://github.com/TCarel-dev). | Electron, React, TypeScript |
+- **[Sumi](https://apps.apple.com/app/id6770529287)** — Learn Japanese, one character at a time. Built for iOS.
+- **[Arche](https://github.com/VGontier-cmd/arche)** — Self-hosted AI agents that turn Jira tickets into code.
+- **[My Wish Vault](https://www.producthunt.com/posts/my-wish-vault)** — Share wishlists and keep gifts a surprise.
 
-Earlier projects include **[BlueWiCan](https://github.com/VGontier-cmd/BlueWiCan)**, a team project for ESIGELEC × Stellantis to visualize vehicle CAN data, and **[Spec2Code](https://viviengontier.com/en)**, a 48-hour team hackathon prototype connecting Jira, code generation and GitLab reviews.
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-18181B?style=flat&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&amp;logo=react&amp;logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Node.js-417E38?style=flat&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" alt="Docker">
+</p>
 
-## Tools I work with
-
-- **Web:** TypeScript, React, Next.js, Astro, Chakra UI, Tailwind CSS
-- **Mobile & desktop:** React Native, Expo, Electron
-- **Backend & data:** Node.js, Fastify, Prisma, PostgreSQL, SQLite
-- **Testing & tooling:** Vitest, Jest, Testing Library, Docker, GitHub, GitLab
-
-## Beyond code
-
-I'm learning Japanese and enjoy [photography](https://viviengontier.com/en/photos). I write about things I build, including [on-device handwriting recognition without AI](https://viviengontier.com/en/blog/handwriting-recognition-without-ai).
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VGontier-cmd&amp;theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VGontier-cmd&amp;theme=github" alt="GitHub activity statistics" width="340" height="200">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VGontier-cmd&amp;theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VGontier-cmd&amp;theme=github" alt="Most used languages across public repositories" width="340" height="200">
+  </picture>
+</p>
