@@ -24,14 +24,6 @@ Earlier projects include **[BlueWiCan](https://github.com/VGontier-cmd/BlueWiCan
 - **Backend & data:** Node.js, Fastify, Prisma, PostgreSQL, SQLite
 - **Testing & tooling:** Vitest, Jest, Testing Library, Docker, GitHub, GitLab
 
-## Open source
-
-I also contribute fixes and improvements to libraries I use:
-
-- **[use-mask-input](https://github.com/eduardoborges/use-mask-input/pull/123)** — exported types for better TypeScript support. Merged.
-- **[Chakra UI](https://github.com/chakra-ui/chakra-ui/pull/10148)** — fixed broken documentation links. Merged.
-- **[TanStack Query](https://github.com/TanStack/query/pull/11919)** — proposed a fix for nullish persisted query state.
-
 ## Beyond code
 
 I'm learning Japanese and enjoy [photography](https://viviengontier.com/en/photos). I write about things I build, including [on-device handwriting recognition without AI](https://viviengontier.com/en/blog/handwriting-recognition-without-ai).
